@@ -1,0 +1,16 @@
+time_step = 5
+row_number = 4
+col_number = 4
+1 | magnet(4, 2): -100
+2 | magnet(4, 2): 0
+3 | magnet(4, 2): -100
+4 | magnet(4, 2): 0
+5 | magnet(4, 2): -100
+6 | magnet(4, 2): 0
+7 | magnet(4, 2): -100
+8 | magnet(4, 2): 0
+9 | magnet(4, 2): -100
+10 | magnet(4, 2): 0
+11 | magnet(4, 2): -100
+12 | magnet(4, 2): 0
+13 | magnet(4, 2): -100

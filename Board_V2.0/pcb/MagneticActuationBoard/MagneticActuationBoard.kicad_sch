@@ -1,0 +1,60 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "3a9005d7-d799-4ee5-9d69-4bc33a3578f9")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 36.83 63.5)
+		(size 57.15 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "47de6482-cf1c-4af7-9141-78370e60fe27")
+		(property "Sheetname" "Magnet Holder"
+			(at 36.83 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "magnet_holder.kicad_sch"
+			(at 36.83 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 36.83 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "MagneticActuationBoard"
+				(path "/3a9005d7-d799-4ee5-9d69-4bc33a3578f9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

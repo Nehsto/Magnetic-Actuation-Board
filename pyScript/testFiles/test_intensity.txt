@@ -1,0 +1,5 @@
+time_step = 1
+row_number = 4
+col_number = 4
+1 | magnet(1, 1): 100, magnet(1, 2): 100, magnet(1, 3): 100, magnet(1, 4) : 100, magnet(2, 1): 91, magnet(2, 2): 91, magnet(2, 3): 91, magnet(2, 4) : 91, magnet(3, 1): 82, magnet(3, 2): 82, magnet(3, 3): 82, magnet(3, 4) : 82, magnet(4, 1): 73, magnet(4, 2): 73, magnet(4, 3): 73, magnet(4, 4) : 73
+10 | magnet(1, 1): 100, magnet(1, 2): 100, magnet(1, 3): 100, magnet(1, 4) : 100, magnet(2, 1): 91, magnet(2, 2): 91, magnet(2, 3): 91, magnet(2, 4) : 91, magnet(3, 1): 82, magnet(3, 2): 82, magnet(3, 3): 82, magnet(3, 4) : 82, magnet(4, 1): 73, magnet(4, 2): 73, magnet(4, 3): 73, magnet(4, 4) : 73

@@ -1,0 +1,17 @@
+time_step =  1.0
+row_number = 4
+col_number = 4
+1 | magnet(2, 2): 100, magnet(2, 3):100, magnet(3,2) : 100
+2 | magnet(2, 2): -100, magnet(2, 3):-100, magnet(3,2) : -100
+3 | magnet(2, 2): 100, magnet(2, 3):100, magnet(3,2) : 100
+4 | magnet(2, 2): -100, magnet(2, 3):-100, magnet(3,2) : -100
+5 | magnet(2, 2): 100, magnet(2, 3):100, magnet(3,2) : 100
+6 | magnet(2, 2): -100, magnet(2, 3):-100, magnet(3,2) : -100
+7 | magnet(2, 2): 100, magnet(2, 3):100, magnet(3,2) : 100
+8 | magnet(2, 2): -100, magnet(2, 3):-100, magnet(3,2) : -100
+9 | magnet(2, 2): 100, magnet(2, 3):100, magnet(3,2) : 100
+10 | magnet(2, 2): -100, magnet(2, 3):-100, magnet(3,2) : -100
+11 | magnet(2, 2): 100, magnet(2, 3):100, magnet(3,2) : 100
+12 | magnet(2, 2): -100, magnet(2, 3):-100, magnet(3,2) : -100
+13 | magnet(2, 2): 100, magnet(2, 3):100, magnet(3,2) : 100
+14 | magnet(2, 2): -100, magnet(2, 3):-100, magnet(3,2) : -100

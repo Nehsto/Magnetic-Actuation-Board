@@ -1,0 +1,11 @@
+# Example file, 4x4 board
+# Change options
+% interpolate false
+# Sequentially set all magnets to 100% intensity
+# producing a positive B field 
+@ 0.5 magnet(1,1) 50
+@ 0.5 magnet(2,1) -50
+@ 1 magnet(1,1) -50
+@ 1 magnet(2,1) 50
+@ 2 magnet(1,1) 0
+@ 2 magnet(2,1) 0
